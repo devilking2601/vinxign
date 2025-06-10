@@ -1,0 +1,16 @@
+{
+  "name": "Vinxign",
+  "short_name": "Vinxign",
+  "description": "Vinxign is the world's first all-in-one digital platform purpose-built to empower and uplift the global deaf community.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8b5cf6",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "/images/logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+} 
