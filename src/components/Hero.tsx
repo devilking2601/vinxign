@@ -55,7 +55,7 @@ const Hero = () => {
             </h1>
           </div>
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-200 mb-8">
-            World's First Social Media App
+            World's First Inclusive Social Media App for Deaf
           </p>
           <Link
             href="/coming-soon"
