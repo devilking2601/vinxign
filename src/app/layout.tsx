@@ -19,13 +19,13 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://vinxign.com'),
-  title: 'Vinxign - Empowering Digital Innovation',
-  description: 'Vinxign is a leading digital innovation company specializing in AI, blockchain, and web3 solutions. We help businesses transform their digital presence with cutting-edge technology.',
-  keywords: 'Vinxign, digital innovation, AI, blockchain, web3, technology solutions',
+  title: 'Vinxign - Communication Without Barriers',
+  description: 'Vinxign is the world’s first all-in-one digital platform purpose-built to empower and uplift the global deaf community.',
+  keywords: 'Vinxign, digital innovation, AI, technology solutions, Social Media for Deaf, Deaf, Deaf Community, Devesh Gurjar, Vishwesh Gurjar',
   authors: [{ name: 'Vinxign Media Private Limited' }],
   openGraph: {
-    title: 'Vinxign - Empowering Digital Innovation',
-    description: 'Vinxign is a leading digital innovation company specializing in AI, blockchain, and web3 solutions.',
+    title: 'Vinxign - Communication Without Barriers',
+    description: 'Vinxign is the world’s first all-in-one digital platform purpose-built to empower and uplift the global deaf community.',
     url: 'https://vinxign.com',
     siteName: 'Vinxign',
     images: [
@@ -41,8 +41,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Vinxign - Empowering Digital Innovation',
-    description: 'Vinxign is a leading digital innovation company specializing in AI, blockchain, and web3 solutions.',
+    title: 'Vinxign - Communication Without Barriers',
+    description: 'Vinxign is the world’s first all-in-one digital platform purpose-built to empower and uplift the global deaf community.',
     images: ['/images/logo.webp'],
   },
   robots: {
