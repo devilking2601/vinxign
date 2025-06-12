@@ -47,8 +47,8 @@ const teamDetails = {
     vision: "Design isn't just what it looks like—it's how it moves, how it feels, and how it speaks without saying a word.",
     linkedin: "",
     email: "",
-    intro: `Lucky Khope is the visual force behind Vinxign's vibrant presence. As the Chief Designing Officer and Creative Head, he leads everything from motion graphics to app UI/UX design with a natural flair for creativity that defies his age.`,
-    background: `At just 18 years old, Lucky recently completed his schooling, but his talent is already far beyond classroom boundaries. Without formal design training, he mastered animation, visual storytelling, and brand aesthetics through self-learning and constant experimentation. From creating intuitive app flows to crafting captivating animations, Lucky ensures every frame of Vinxign is meaningful and memorable—built with the deaf community's needs at heart.`,
+    intro: `Dhawal Khope is the visual force behind Vinxign's vibrant presence. As the Chief Designing Officer and Creative Head, he leads everything from motion graphics to app UI/UX design with a natural flair for creativity that defies his age.`,
+    background: `At just 18 years old, Dhawal recently completed his schooling, but his talent is already far beyond classroom boundaries. Without formal design training, he mastered animation, visual storytelling, and brand aesthetics through self-learning and constant experimentation. From creating intuitive app flows to crafting captivating animations, he ensures every frame of Vinxign is meaningful and memorable—built with the deaf community's needs at heart.`,
     highlights: [
       "Completed high school in 2024",
       "Chief Designing Officer at Vinxign",
