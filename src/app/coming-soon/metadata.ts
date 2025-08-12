@@ -1,6 +1,17 @@
 export const metadata = {
   title: "Coming Soon | Vinxign",
   description: "We are working hard to bring the world's first inclusive social media app. Stay tuned.",
+  robots: {
+    index: false,
+    follow: false,
+    googleBot: {
+      index: false,
+      follow: false,
+      'max-video-preview': -1,
+      'max-image-preview': 'none',
+      'max-snippet': -1,
+    },
+  },
   openGraph: {
     title: "Coming Soon | Vinxign",
     description: "We are working hard to bring the world's first inclusive social media app. Stay tuned.",

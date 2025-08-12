@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Disallow coming-soon page from being indexed
+Disallow: /coming-soon
+
+# Sitemap location
+Sitemap: https://vinxign.com/sitemap.xml

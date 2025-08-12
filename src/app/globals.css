@@ -18,3 +18,31 @@ body {
   cursor: auto;
 }
 
+/* Mobile-specific fixes */
+@media (max-width: 768px) {
+  .features-section {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+  
+  .feature-card {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+}
+
+/* Ensure features are always visible */
+.features-section {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+.feature-card {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
